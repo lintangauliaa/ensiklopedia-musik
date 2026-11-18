@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#7a3e1d">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")}catch(e){}</script>
+<title>Tentang | Ensiklopedia Musik Nusantara</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body data-page="tentang">
+<a class="skip" href="#main">Lewati ke konten</a>
+<div id="site-header"></div>
+<main id="main">
+
+<section class="container narrow">
+  <h1 class="title">Tentang Aplikasi</h1>
+  <div class="panel">
+    <p><strong>Pengembangan Aplikasi Ensiklopedia Interaktif Alat Musik Tradisional Nusantara Berbasis Web 3D</strong> adalah aplikasi edutainment untuk mengenalkan alat musik tradisional Indonesia melalui informasi, model 3D, audio, video, dan kuis.</p>
+    <p>Teknologi: HTML5, CSS3, JavaScript, &lt;model-viewer&gt;, audio &amp; video HTML5, LocalStorage.</p>
+  </div>
+</section>
+<script>fetch("assets/kredit.txt").then(r=>r.ok?r.text():Promise.reject()).then(t=>kredit.textContent=t).catch(()=>kredit.textContent="Belum ada kredit. Isi file assets/kredit.txt.")</script>
+</main>
+<div id="site-footer"></div>
+<script src="js/instruments.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#7a3e1d">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")}catch(e){}</script>
+<title>Beranda | Ensiklopedia Musik Nusantara</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body data-page="home">
+<a class="skip" href="#main">Lewati ke konten</a>
+<div id="site-header"></div>
+<main id="main">
+
+<section class="hero">
+  <span class="float f1">🎵</span><span class="float f2">🥁</span><span class="float f3">🎶</span>
+  <div class="container hero-in">
+    <p class="eyebrow">Edutainment Budaya Indonesia</p>
+    <h1>ENSIKLOPEDIA INTERAKTIF<br><span>ALAT MUSIK TRADISIONAL NUSANTARA</span></h1>
+    <p class="sub">Kenali suara, bentuk, dan cerita di balik alat musik tradisional Indonesia.</p>
+    <div class="btns"><a class="btn" href="ensiklopedia.html">Mulai Eksplorasi</a><a class="btn btn-alt" href="kuis.html">Mainkan Kuis</a></div>
+  </div>
+</section>
+<section class="container reveal">
+  <h2 class="title">Jelajahi Kekayaan Musik Nusantara</h2>
+  <div class="grid" id="homeGrid"></div>
+</section>
+</main>
+<div id="site-footer"></div>
+<script src="js/instruments.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>

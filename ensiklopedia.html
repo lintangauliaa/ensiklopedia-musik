@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#7a3e1d">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")}catch(e){}</script>
+<title>Ensiklopedia | Ensiklopedia Musik Nusantara</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body data-page="ensiklopedia">
+<a class="skip" href="#main">Lewati ke konten</a>
+<div id="site-header"></div>
+<main id="main">
+
+<section class="container">
+  <h1 class="title">Ensiklopedia Alat Musik</h1>
+  <div class="filters">
+    <label class="sr" for="q">Cari</label><input id="q" type="search" placeholder="Cari alat musik...">
+    <label class="sr" for="fRegion">Daerah</label><select id="fRegion"></select>
+    <label class="sr" for="fType">Jenis</label><select id="fType"></select>
+  </div>
+  <p id="count" aria-live="polite"></p>
+  <div class="grid" id="catalog"></div>
+</section>
+</main>
+<div id="site-footer"></div>
+<script src="js/instruments.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>

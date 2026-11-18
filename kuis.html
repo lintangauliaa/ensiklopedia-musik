@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#7a3e1d">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")}catch(e){}</script>
+<title>Kuis | Ensiklopedia Musik Nusantara</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body data-page="kuis">
+<a class="skip" href="#main">Lewati ke konten</a>
+<div id="site-header"></div>
+<main id="main">
+
+<section class="container quiz" id="quiz">
+  <h1 class="title">Kuis Alat Musik</h1>
+  <p class="center"><label><input type="checkbox" id="sfxOn" checked> 🔊 Efek suara</label></p>
+  <div id="quizBox"></div>
+</section>
+</main>
+<div id="site-footer"></div>
+<script src="js/instruments.js"></script>
+<script src="js/main.js"></script>
+<script src="js/quiz.js"></script>
+</body>
+</html>
