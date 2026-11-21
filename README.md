@@ -60,15 +60,27 @@ Proyek ini merupakan karya Tugas Akhir untuk mata kuliah **Sistem Multimedia**. 
 
 ### 🔊 Sampel Audio (Audio Samples)
 * **Angklung:** [https://pixabay.com/music/happy-childrens-tunes-manuk-dadali-happy-ukulele-music-338849/]
-* **Sasando:** [Nama Kreator / Sumber Link Audio]
-* **Kendang:** [Nama Kreator / Sumber Link Audio]
+* **Sasando:** [https://youtu.be/6i4m-xHb6VU?si=0QgIqGmeUDnmvbOr]
+* **Kendang:** [https://youtu.be/z3D-6Ahm9tQ?si=Zp0ctYvFr_hAGbwt]
 * **Tifa:** [https://youtu.be/NTI-WVYD9AE?si=OZXBPFRji4KBwk-s]
 * **Sape:** [https://youtu.be/CXgYukD6vfI?si=bZrGFnl2s4Xyjelu]
 * **Kecapi Baduy:** [https://youtu.be/N5n2ptw7uDY?si=GmO3zauqNF5CTGlx]
-* **Keso-keso:** [Nama Kreator / Sumber Link Audio]
-* **Gong:** [Nama Kreator / Sumber Link Audio]
-* **Saron:** [Nama Kreator / Sumber Link Audio]
+* **Keso-keso:** [https://youtu.be/yNn5ojlmMwQ?si=WEnjDGDhOP91UOi8]
+* **Gong:** [https://youtu.be/kWfoFTXLTOo?si=czRI6bqi_V4II9z9]
+* **Saron:** [https://youtu.be/_w0KXEQMewk?si=5r6z4ygw8zBJQ4qK]
 * **Suling Bambu:** [https://youtu.be/C__Y8tbwpMk?si=PWkDWl4qRk59zSmO]
+
+### 🎥 Sampel Video (Video Samples)
+* **Angklung:** [https://youtu.be/7aCsPunBU24?si=7wDMtfhEOMXmVrYD]
+* **Sasando:** [https://youtu.be/LnGGrXj3hp0?si=XWqL1hK8dPWmQgZ6]
+* **Kendang:** [https://youtu.be/1Kl29XLLhaI?si=mN1AGPbJZol7FP7s]
+* **Tifa:** [https://youtu.be/alfJ_HCrlME?si=E2soLK27iQVQ0Bav]
+* **Sape:** [https://youtu.be/7qqyK_K0fqw?si=07VoewY-b3rDtU0M]
+* **Kecapi Baduy:** [https://youtu.be/i8aHTEH8Gvk?si=qVoZ1XWRjY9vFgNM]
+* **Keso-keso:** [https://youtu.be/pL_GsjVi22Y?si=UUdw6gr7AaDZrJRA]
+* **Gong:** [https://youtu.be/y5LKNPCPBBc?si=K1uSk0YLenmP_AMy]
+* **Saron:** [https://youtu.be/f-fs0xm6rpc?si=bR9JKw0gfckbIcKH]
+* **Suling Bambu:** [https://youtu.be/DLDd8qFZCKI?si=_fANkAEMNvur0mPR]
 
 ### 📚 Gambar Thumbnail & Artikel
 * Gambar pendukung dan deskripsi disadur dari platform publik *(Google / Pinterest / Pexels / Pixabay)*.
